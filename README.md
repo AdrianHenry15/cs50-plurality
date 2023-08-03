@@ -34,5 +34,5 @@ If you look further down in the file, though, you’ll notice that the `vote` an
 1. Make sure you have a compiler for C programs. Some popular compilers include GCC, Clang, and Microsoft Visual C++.
 2. Clone the repo.
 3. `cd` into the respective directory.
-4. Compile the code `gcc -o caesar caesar.c`.
-5. Start the program `./caesar`
+4. Compile the code `gcc -o plurality plurality.c`.
+5. Start the program `./plurality`
